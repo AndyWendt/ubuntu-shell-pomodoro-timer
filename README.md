@@ -16,6 +16,6 @@ Or if you want to add it as a command (you need to be in the same directory as t
 mv pomodoro.sh /usr/local/bin/pomodoro
 ```
 
-Then to invoke it you would run `pomodoro`.  
+Then to invoke it, you would run `pomodoro`.  
 
 Once the countdown is finished it will display a system alert using `notify-send`
