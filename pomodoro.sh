@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 echo "What will you be working on?:"
 
 read tasks
